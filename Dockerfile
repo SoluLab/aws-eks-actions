@@ -1,4 +1,4 @@
-FROM alpine/k8s:1.21.2
+FROM alpine/k8s:1.28.9
 LABEL maintainer="Ravinayag <ravinayag@gmail.com>"
 
 
